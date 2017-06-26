@@ -1,3 +1,3 @@
 #week 2 git exercises
-#good morning!
+#hello
 #this is from jenlij/new-branch
