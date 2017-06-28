@@ -1,0 +1,23 @@
+(dp0
+S'person'
+p1
+(dp2
+S'age'
+p3
+I1000
+sS'name'
+p4
+S'jethro'
+p5
+sS'number_of_cats'
+p6
+I22
+ssS'cat'
+p7
+(dp8
+g3
+I11
+sg4
+S'vin disel'
+p9
+ss.
